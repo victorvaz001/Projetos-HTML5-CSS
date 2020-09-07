@@ -1,7 +1,7 @@
 # Projeto - Clone pagina inicial do Instagran <br>
 
 ## Objetivo
-* Clone da pagina inicial do Instagran<br>
+* Clone da pagina inicial do Instagram responsivo<br>
 
 ## Tecnologias
 
