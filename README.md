@@ -1,4 +1,4 @@
-# Projeto - Clone pagina inicial do Instagran <br>
+# Projeto - Clone pagina inicial do Instagram <br>
 
 ## Objetivo
 * Clone da pagina inicial do Instagram responsivo<br>
